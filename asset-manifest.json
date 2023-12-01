@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/satena/static/css/main.4d350168.css",
+    "main.js": "/satena/static/js/main.729428d6.js",
+    "static/media/traveller.png": "/satena/static/media/traveller.d6147572657f5b88776a.png",
+    "index.html": "/satena/index.html",
+    "main.4d350168.css.map": "/satena/static/css/main.4d350168.css.map",
+    "main.729428d6.js.map": "/satena/static/js/main.729428d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d350168.css",
+    "static/js/main.729428d6.js"
+  ]
+}
